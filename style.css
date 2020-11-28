@@ -416,6 +416,7 @@ img{
   .contact__container{
     justify-items: center;
   }
+  
 }
 
 @media screen and (min-width: 1024px){
@@ -427,7 +428,13 @@ img{
     right: 10%;
   }
 }
+@media screen and (min-width: 1024px){
+.prj-btn{
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
 
+}
 /* Projects */
 
 
